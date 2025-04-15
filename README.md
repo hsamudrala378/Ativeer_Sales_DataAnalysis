@@ -2,9 +2,8 @@
 
 Ativeer_sales_DataAnalysis is a comprehensive data analysis and visualization project designed to uncover key business insights from historical sales data. Using Power BI, the project explores sales, revenue, expense, and profit trends across various states, sales channels, product categories, and time periods (Month & Year).
 
-Tools & Technologies
+  # Tools & Technologies
 
-Tools & Technologies
 Python – Used for cleaning the raw Excel data and saving it as a CSV.
 
 Prophet – Used to create time-series forecast models for future revenue predictions.
@@ -13,7 +12,7 @@ Power BI – For data modeling, KPI tracking, and dashboard creation.
 
 DAX (Data Analysis Expressions) – Used to create calculated fields and YoY metrics.
 
-Step 1: Data Cleaning
+✅ Step 1: Data Cleaning
 Performed in Python using pandas to remove missing values, format dates, and ensure clean data before import into Power BI.
 
 ✅ Step 2: Forecasting with Prophet
